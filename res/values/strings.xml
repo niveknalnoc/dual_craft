@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="online">Online</string>
+    <string name="app_name">DualCraft</string>
+    <string name="viewYouTube">View YouTube Stream</string>
+    <string name="searchUrl">Search Stream by Url</string>
+    <string name="favourites">Favourites</string>
+    <string name="menuTitle">Menu</string>
+    <string name="searchText">Search Text</string>
+    <string name="searchBanner">Search Streams</string>
+    <string name="favourite">Favourites</string>
+    <string name="about">About</string>
+    <string name="favouritesText">Favourites data goes here</string>
+    <string name="searchBannerGame">Search by Game</string>
+    <string name="searchBannerUser">Search by User</string>
+    <string name="searchUser">Search stream by User</string>
+    <string name="searchGame">Search stream by Game</string>
+    <string name="search">Search</string>
+    <string name="aboutUsAgain">about</string>
+    <string name="onlineList">No online streamers</string>
+    <string name="favouritesList">No Favourites</string>
+    <string name="category_prompt">Categories</string>
+    <string name="editText">Enter Search Query</string>
+    <string name="favouritesBanner">Dual Craft - Favourites</string>
+    <string name="searchBanner2">Dual Craft - Search</string>
+    <string name="onlineBanner">Dual Craft - Search by Category</string>
+    <string name="viewStreamBanner">Dual Craft - View Stream</string>
+    
+    <string name="online_spinner">Please select a category and sub-category</string>
+    <string-array name="category">
+        <item>Gaming</item>
+        <item>Social</item>
+        <item>Sports</item>
+        <item>Entertainment</item>
+        <item>News and Events</item>
+        <item>Animals</item>
+        <item>Science</item>
+        <item>Education</item>
+        <item>Other</item> 
+    </string-array>
+    
+    
+    
+
+</resources>
